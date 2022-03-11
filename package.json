@@ -11,14 +11,17 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "firebase": "^7.19.1",
+    "hoist-non-react-statics": "^3.3.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-hook-form": "^7.27.1",
     "react-redux": "^7.2.6",
     "react-router-dom": "^5.2.1",
     "react-scripts": "5.0.0"
   },
   "scripts": {
-    "vite": "vite --open",
+    "dev": "vite --open",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
